@@ -20,11 +20,11 @@
    Edit <b>.env</b> ISI VARS YANG DIMINTA
 </h3>
 
- $ screen -S Uputt
- $ python3 -m Uputt
+ $ screen -S Linguist
+ $ python3 -m Linguist
 ## Heroku Deploy!
 <h3 align="center">Click The Button</h3>
-<a href="https://heroku.com/deploy?template=https://github.com/Marszyygreat/Medoy-Userbot-"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Marszyygreat/Bhedoy-Userbot-"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 </div>
 
 
